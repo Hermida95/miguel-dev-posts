@@ -19,8 +19,9 @@ Con :has() + :empty podemos hacerlo de forma elegante:
   content: "Aún no hay contenido";
 }
 
-🔍 Esto significa que si un <article> contiene una <img>, se le aplica un borde.
+🔍 Esto significa que si un article contiene una img, se le aplica un borde.
 Antes necesitábamos JavaScript para esto. Ahora, ¡CSS se pone listo!
+
 article:has(img) {
   border: 2px solid #4ade80;
 }
