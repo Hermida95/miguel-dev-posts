@@ -7,7 +7,7 @@ Comparto aquí mis publicaciones técnicas organizadas por temas.
 - [`:has()` selector](css/selector-has.md)
 
 ## 📂 HTML
-- [Autocomplete] (html/html-autocomplete.md)
+- [Autocomplete](html/html-autocomplete.md)
 
 ## 📂 JavaScript
 
