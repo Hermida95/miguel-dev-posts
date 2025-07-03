@@ -6,7 +6,7 @@ The `autocomplete` attribute in `<input>` lets browsers suggest previously enter
 But even better: you can **specify the exact data type** so the browser recognizes it automatically.
 
 ## ✅ Example
-
+```html
 <form>
   <label for="email">Email:</label>
   <input type="email" name="email" autocomplete="email" />
