@@ -4,10 +4,10 @@
 Comparto aquí mis publicaciones técnicas organizadas por temas.
 
 ## 📂 CSS
-- [`:has()` selector](css/selector-has.md)
+- [`:has()` selector](CSS/selector-has.md)
 
 ## 📂 HTML
-- [Autocomplete](html/html-autocomplete.md)
+- [Autocomplete](HTML/html-autocomplete.md)
 
 ## 📂 JavaScript
 
