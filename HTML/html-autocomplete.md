@@ -17,6 +17,7 @@ But even better: you can **specify the exact data type** so the browser recogniz
   <label for="postal">Postal Code:</label>
   <input type="text" name="postal-code" autocomplete="postal-code" />
 </form>
+```
 
 ✅ Common autocomplete values
 
