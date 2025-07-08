@@ -4,6 +4,7 @@ Basta con añadir el atributo loading="lazy" a tus imágenes en HTML:
 ## ✅ Example
 ```html
 <img src="foto-gimnasio.jpg" alt="Gimnasio" loading="lazy">
+```
 
 ✅ Mejora el rendimiento de tu web (especialmente en móviles).
 ✅ Reduce el uso de datos.
